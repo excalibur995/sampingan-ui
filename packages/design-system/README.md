@@ -1,5 +1,5 @@
 # @sampingan-ui/design-system
 
-> React implementation of Aksara Design System, from Kata.ai.
+> Sampingan Design System Core components
 
 This package is part of the Sampingan UI monorepo.
