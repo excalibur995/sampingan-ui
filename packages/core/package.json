@@ -1,0 +1,9 @@
+{
+  "name": "@sampingan-ui/core",
+  "version": "0.0.0",
+  "description": "Sampingan Design System Core Tokens",
+  "main": "index.js",
+  "author": "@Sampingan",
+  "license": "MIT",
+  "dependencies": {}
+}

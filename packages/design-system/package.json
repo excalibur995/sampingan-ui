@@ -1,0 +1,31 @@
+{
+  "name": "@sampingan-ui/design-system",
+  "version": "0.0.0",
+  "description": "Sampingan UI Design System Components",
+  "main": "index.js",
+  "author": "@Sampingan",
+  "license": "MIT",
+  "dependencies": {
+    "@radix-ui/react-avatar": "^0.1.4",
+    "@sampingan-ui/core": "^0.0.0",
+    "@sampingan-ui/icons": "^0.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@storybook/addon-actions": "^6.4.19",
+    "@storybook/addon-essentials": "^6.4.19",
+    "@storybook/addon-interactions": "^6.4.19",
+    "@storybook/addon-links": "^6.4.19",
+    "@storybook/react": "^6.4.19",
+    "@storybook/testing-library": "^0.0.9",
+    "@testing-library/react": "^12.1.3",
+    "babel-loader": "^8.2.3",
+    "storybook-addon-performance": "^0.16.1",
+    "storybook-dark-mode": "^1.0.9"
+  },
+  "scripts": {
+    "storybook": "start-storybook -p 8081",
+    "build-storybook": "build-storybook",
+    "gc": "yarn cache clean && node .generate_components $1"
+  }
+}

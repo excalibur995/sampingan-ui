@@ -1,0 +1,9 @@
+{
+  "name": "@sampingan-ui/icons",
+  "version": "0.0.0",
+  "description": "Sampingan UI Icons ",
+  "main": "index.js",
+  "author": "@Sampingan",
+  "license": "MIT",
+  "dependencies": {}
+}
